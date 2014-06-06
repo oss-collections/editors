@@ -1,0 +1,6 @@
+[submodule "uemacs"]
+	path = uemacs
+	url = git://git.kernel.org/pub/scm/editors/uemacs/uemacs.git
+[submodule "vim"]
+	path = vim
+	url = hg::https://vim.googlecode.com/hg/
