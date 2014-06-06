@@ -4,3 +4,9 @@
 [submodule "vim"]
 	path = vim
 	url = hg::https://vim.googlecode.com/hg/
+[submodule "emacs"]
+	path = emacs
+	url = git://git.savannah.gnu.org/emacs.git
+[submodule "elpa"]
+	path = elpa
+	url = git://git.savannah.gnu.org/emacs/elpa.git
