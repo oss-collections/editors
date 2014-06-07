@@ -10,3 +10,6 @@
 [submodule "elpa"]
 	path = elpa
 	url = git://git.savannah.gnu.org/emacs/elpa.git
+[submodule "brackets"]
+	path = brackets
+	url = https://github.com/adobe/brackets.git
