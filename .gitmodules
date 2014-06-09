@@ -16,3 +16,6 @@
 [submodule "LightTable"]
 	path = LightTable
 	url = https://github.com/LightTable/LightTable.git
+[submodule "etherpad-lite"]
+	path = etherpad-lite
+	url = https://github.com/ether/etherpad-lite.git
