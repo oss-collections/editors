@@ -13,3 +13,6 @@
 [submodule "brackets"]
 	path = brackets
 	url = https://github.com/adobe/brackets.git
+[submodule "LightTable"]
+	path = LightTable
+	url = https://github.com/LightTable/LightTable.git
