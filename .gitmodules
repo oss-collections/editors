@@ -19,3 +19,6 @@
 [submodule "etherpad-lite"]
 	path = etherpad-lite
 	url = https://github.com/ether/etherpad-lite.git
+[submodule "yi"]
+	path = yi
+	url = https://github.com/yi-editor/yi.git
