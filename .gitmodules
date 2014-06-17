@@ -22,3 +22,6 @@
 [submodule "yi"]
 	path = yi
 	url = https://github.com/yi-editor/yi.git
+[submodule "atom"]
+	path = atom
+	url = https://github.com/atom/atom.git
