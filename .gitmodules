@@ -28,3 +28,6 @@
 [submodule "CodeMirror"]
 	path = CodeMirror
 	url = https://github.com/marijnh/CodeMirror.git
+[submodule "tern"]
+	path = tern
+	url = https://github.com/marijnh/tern.git
