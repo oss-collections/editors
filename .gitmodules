@@ -25,3 +25,6 @@
 [submodule "atom"]
 	path = atom
 	url = https://github.com/atom/atom.git
+[submodule "CodeMirror"]
+	path = CodeMirror
+	url = https://github.com/marijnh/CodeMirror.git
